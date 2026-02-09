@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
-    printf("technology");
+    printf("sivan");
+    printf("\nravi");
     return 0;
 }
